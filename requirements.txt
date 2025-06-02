@@ -1,4 +1,7 @@
 PySide6
 pyautogui
 pupil-labs-realtime-api
-git+https://github.com/pupil-labs/real-time-screen-gaze
+PyQt5
+pyqtgraph
+numpy
+opencv-python
